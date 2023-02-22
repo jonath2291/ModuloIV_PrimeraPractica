@@ -1,3 +1,6 @@
+
+# PARTICIPANTES
+
 - Jonathan Figueroa Peñarrieta
 - Roberto Pinto Andia
 - Omar Hinojosa Ballon
